@@ -1,3 +1,47 @@
-body{
-    background-color: greenyellow;
+body {
+    background-color:blue;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  form{
+    vertical-align:middle;
+    text-align: center;
+    font-size:20px;
+  }
+
+  button {
+    margin-left:45%;
+    margin-top:4%;
 }
+  
+  img {
+  
+  width: 90px;
+  
+  height: 90px;
+  
+  float: left;
+  
+  }
+
+  #postFullName{
+    font-size:30px;
+    text-align:center;
+  }
+  
+
+    
+ #idCard {
+ font-family: 'Righteous', cursive;
+ background-color:pink;
+ border: 5px solid black;
+ height: 14em;
+ width: 25em;
+  margin-top: 5%;
+ margin-left: 35%;
+        
+ }
